@@ -1,0 +1,2 @@
+# Hy-readfile
+rubyのargfみたいなのをhyでも使えるようにしただけのモジュールです
